@@ -1,0 +1,68 @@
+{
+    "title": "React Quiz",
+    "questions": [
+      {
+        "question": "State in react is________",
+        "answers": [
+          {
+            "point": 1,
+            "label": "Internal storage of the component"
+          },
+          {
+            "point": 0,
+            "label": "A permanent storage"
+          },
+          {
+            "point": 0,
+            "label": "Both of the above"
+          },
+          {
+            "point": 0,
+            "label": "None"
+          }
+        ]
+      },
+      {
+        "question": "props in react can________",
+        "answers": [
+          {
+            "point": 1,
+            "label": "Not be changed in the component"
+          },
+          {
+            "point": 0,
+            "label": "be changed in component"
+          },
+          {
+            "point": 0,
+            "label": "be changed inside the component"
+          },
+          {
+            "point": 0,
+            "label": "be changed using jsx"
+          }
+        ]
+      },     
+      {
+        "question": "Webpack command act as a _____________",
+        "answers": [
+          {
+            "point": 0,
+            "label": "runs local dev server"
+          },
+          {
+            "point": 0,
+            "label": "Data layer in an application"
+          },
+          {
+            "point": 1,
+            "label": "Module bundler"
+          },
+          {
+            "point": 0,
+            "label": "Controller layer in an application"
+          }
+        ]
+      }     
+    ]
+  }
